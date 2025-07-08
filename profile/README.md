@@ -7,6 +7,7 @@ This is my homelab:
   3. Some othaaaarsss
 2. NAS running TrueNAS (WIP)
 3. Automating with Ansible (in a private repository)
+4. A simple blog to document what I did
 
 The cat's name is Gojo and he is five
 
