@@ -2,7 +2,7 @@
 
 This is my homelab: 
 1. k3s cluster running applications
-   1. Jellyfin exposed with a Nodeport, Tailscale Operator on the cluster, and some other backups
+   1. Jellyfin exposed with Tailscale Operator on the cluster, and some other backups (e.g. a Nodeport for local smartTV use)
    2. DNS sink - currently PiHole, moving to Adguard Home
    3. Some othaaaarsss
 2. NAS running TrueNAS (WIP)
