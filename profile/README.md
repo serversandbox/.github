@@ -2,10 +2,11 @@
 
 This is my homelab: 
 1. k3s cluster running applications
-   1. Jellyfin exposed with Tailscale Operator on the cluster, and some other backups (e.g. a Nodeport for local smartTV use)
-   2. DNS sink - currently PiHole, moving to Adguard Home
-   3. Some othaaaarsss
-2. NAS running TrueNAS (WIP) as central storage for applications, and backup for personal media
+   1. Gitea + Flux for Gitops
+   2. Jellyfin exposed with Tailscale Operator
+   3. Adguard Home with some blocklists, also exposed through the tailnet to devices
+   4. Some othaaaarsss
+2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
 3. Automating with Ansible (in a private repository)
 4. A simple blog to document what I did
 
