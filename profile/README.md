@@ -5,10 +5,10 @@ This is my homelab:
    1. WIP Gitea + Flux for Gitops; considering Gitlab
    2. Jellyfin exposed with Tailscale Operator
    3. Adguard Home with some blocklists, also exposed through the tailnet to devices
-   4. Immich
+   4. Immich + WIP Cloudflare tunnels (for the inlaws.....)
    5. WIP OPNSense
    6. WIP Keycloak
-   7. WIP Fail2Ban
+   7. WIP Home Assistant
 2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
 3. Automating with Ansible (in a private repository)
 4. A simple blog to document what I did
