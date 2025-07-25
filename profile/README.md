@@ -1,17 +1,16 @@
 ## Hi there 👋
 
 This is my homelab: 
-1. k3s cluster running applications
-   1. WIP Gitea + Flux for Gitops; considering Gitlab
+1. k3s cluster running applications, set up with Ansible
+   1. WIP Gitea + Flux for Gitops
    2. Jellyfin exposed with Tailscale Operator
    3. Adguard Home with some blocklists, also exposed through the tailnet to devices
    4. Immich + WIP Cloudflare tunnels (for the inlaws.....)
-   5. WIP OPNSense
-   6. WIP Keycloak
-   7. WIP Home Assistant
+   5. WIP Keycloak
+   6. WIP server migration (hardware upgrade came early!)
 2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
-3. Automating with Ansible (in a private repository)
-4. A simple blog to document what I did
+3. Raspberry Pi 4 running Home Assistant and Sonoff
+4. OPNSense
 
 The cat's name is Gojo and he is five
 
