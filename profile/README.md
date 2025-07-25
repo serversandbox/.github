@@ -8,9 +8,10 @@ This is my homelab:
    4. Immich + WIP Cloudflare tunnels (for the inlaws.....)
    5. WIP Keycloak
    6. WIP server migration (hardware upgrade came early!)
+   7. WIP Home Assistant + SMLight SLZB 06M + Tuya SZ06
 2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
-3. Raspberry Pi 4 running Home Assistant, and Sonoff dongle for Zigbee (now try saying that again)
-4. Qotom fanless box running OPNSense - thanks Nabil/Seifane
+<!--3. Raspberry Pi 4 running Home Assistant, and Sonoff dongle for Zigbee (now try saying that again) -->
+3. Qotom fanless box running OPNSense - thanks Nabil/Seifane
 
 The cat's name is Gojo and he is five
 
