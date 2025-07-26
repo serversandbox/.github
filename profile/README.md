@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is my homelab: 
-1. k3s cluster running applications, set up with Ansible
+1. k3s cluster set up with Ansible, running:
    1. WIP Gitea + Flux for Gitops
    2. Jellyfin exposed with Tailscale Operator
    3. Adguard Home with some blocklists, also exposed through the tailnet to devices
