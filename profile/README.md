@@ -12,7 +12,7 @@ This is my homelab:
        1. Samsung TV
        2. old Sensibo dongle
        3. (currently shipping) SMLight SLZB 06M + Tuya SZ06
-       4. Petkit fountain and litterbox: https://github.com/Jezza34000/homeassistant_petkit
+       4. Petkit fountain and litterbox: https://github.com/RobertD502/home-assistant-petkit and https://github.com/Jezza34000/homeassistant_petkit
 <!-->
 2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
 <!--3. Raspberry Pi 4 running Home Assistant, and Sonoff dongle for Zigbee (now try saying that again) -->
