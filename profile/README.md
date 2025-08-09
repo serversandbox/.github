@@ -1,18 +1,18 @@
 ## Hi there 👋
 
 This is my homelab: 
-1. k3s cluster set up with Ansible, running:
+1. Multi-cluster (old vs new no time to finish migrating) k3s cluster set up with Ansible, running:
    1. Prometheus, Grafana, WIP [Grafana Alloy](https://www.reddit.com/r/PrometheusMonitoring/comments/1h82jyv/node_exporter_or_alloy_what_do_you_use/) + Loki
    2. Jellyfin exposed with Tailscale Operator
    3. Adguard Home with some blocklists, also exposed through the tailnet to devices
-   4. Immich + WIP Cloudflare tunnels (for the inlaws.....)
+   4. Immich (for the inlaws.....)
    5. WIP Keycloak
    6. WIP server migration (hardware upgrade came early!)
    7. WIP Gitea + Flux for Gitops
-   8. Home Assistant
+   8. Home Assistant + Zigbee2MQTT + Mosquitto
        1. Samsung TV
        2. old Sensibo dongle
-       3. (currently shipping) SMLight SLZB 06M + Tuya SZ06
+       3. SMLight SLZB 06M + Tuya SZ06
        4. Petkit fountain and litterbox: https://github.com/RobertD502/home-assistant-petkit and https://github.com/Jezza34000/homeassistant_petkit
 <!-->
 2. NAS running TrueNAS Scale as central storage for applications, and backup for personal media
