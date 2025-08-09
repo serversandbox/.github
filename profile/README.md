@@ -19,6 +19,8 @@ This is my homelab:
 <!--3. Raspberry Pi 4 running Home Assistant, and Sonoff dongle for Zigbee (now try saying that again) -->
 3. Qotom fanless box running OPNSense (WIP, cos of network migrations) - thanks Nabil/Seifane
 
+Eventually gotta move everything to `bjw-s/app-template` charts, but for now it's YAML monstering
+
 The cat's name is Gojo and he is five
 
 <!--
